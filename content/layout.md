@@ -8,7 +8,7 @@
 
 1. Write only one declaration per line.
 
-1. Indentation should be 4 spaces instead of `\t`;
+1. Indentation should be 4 spaces instead of `\t`.
 
 2. Use parentheses to make clauses in an expression apparent, as shown in the following code:
    ```java
