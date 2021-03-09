@@ -41,8 +41,8 @@
 2. But the name of objects which are modified with `final` should be all capital and split every word with `_`. For example:
     ```java
     public final int MAX_OF_CORES = 0;         // right
-    public final boolean ValueOfValid = false; // wrong, all letters should be capital and split with `_`.
-    public final int Max_Limit = 20;           // wrong, should be split with `_`.
+    public final boolean ValueOfValid = false; // wrong, all letters should be capital and the name should be splitted with `_`.
+    public final int Max_Limit = 20;           // wrong, should be capital.
     ```
 
 3. For arguments, the variables should be ended with `In`:
