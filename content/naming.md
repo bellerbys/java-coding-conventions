@@ -44,3 +44,9 @@
     public final boolean ValueOfValid = false; // wrong, all letters should be capital and split with `_`.
     public final int Max_Limit = 20;           // wrong, should be split with `_`.
     ```
+
+3. For arguments, the variables should be ended with `In`:
+   ```java
+   public void setName(String nameIn)          // right
+   public void setAge(int age)                 // wrong, age should be ageIn
+   ```
